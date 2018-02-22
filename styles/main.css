@@ -13,13 +13,13 @@ body {
 
 h1 {
     font-size: 2.5em;
-    color: darkblue;
+    color: firebrick;
 }
 
 h2 {
     font-size: 2em;
     text-align: center;
-    border-bottom: 1px solid #bbb;
+    border-bottom: 1px solid gainsboro;
 }
 
 header, main, footer {
@@ -30,12 +30,12 @@ header, main, footer {
 
 header, footer, footer a {
     text-align: center;
-    background-color: gainsboro;
+    background-color: beige;
     color: none;
 }
 
 header img {
-    width: 200px;
+    width: 150px;
     height: auto;
     float: right;
 }
